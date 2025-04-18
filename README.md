@@ -12,7 +12,7 @@
 
 ---
 
-## 🧙‍♂️ About This Code Sorcerer<br><br><p align="left"><br>  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9Ebz570/giphy.gif" width="150" alt="Coding Magic"><br>  </p><br><br>🔮 Currently conjuring spells with **[Primary Language/Technology]**.<br><br><br>🧪 My cauldron often bubbles with **[Secondary Language/Tool]** & **[Another Skill]**.<br><br><br>📜 Exploring the ancient scrolls of **[Area of Interest 1]** and **[Area of Interest 2]**.<br><br><br>✨ Seeking wisdom in **[Field you're learning]**.<br><br><br><br><br>* **Current Enchantment:** Working on [Brief description of a cool project or goal].<br>* **Arcane Focus:** [Your specific niche or specialization].<br>* **Life's Potion:** Mixing code with [Your Hobby 1] & [Your Hobby 2].<br>
+## 🧙‍♂️ About This Code Sorcerer<br><br><p align="left"><br>  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9Ebz570/giphy.gif" width="150" alt="Coding Magic"><br>  </p><br><br>🔮 Currently conjuring spells with **[Lua]**.<br><br><br>🧪 My cauldron often bubbles with **[Python]** & **[HTML/CSS/JS]**.<br><br><br>📜 Exploring the ancient scrolls of **[AI Automation]** and **[Game scripts/hacking tools]**.<br><br><br>✨ Seeking wisdom in **[React]**.<br><br><br><br><br>* **Current Enchantment:** Working on [The Lost City. A FiveM server which I built out of mostly open-source scripts and completely revamped. This server is still heavily W.i.P but it gives me a place to stress test my creations.].<br>* **Arcane Focus:** [Creative Systems Developer].<br>* **Life's Potion:** Mixing code with [Magic] & [Efficiency].<br>
 
 
 # 💻 Tech Stack:
