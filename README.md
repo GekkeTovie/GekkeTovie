@@ -20,6 +20,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GekkeTovie&theme=dark&hide_border=false" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -73,27 +83,14 @@
 
 ## 🎧 What I'm Listening To
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/z7mxk1p4j0b10b9hzevfrjc1y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=z7mxk1p4j0b10b9hzevfrjc1y&count=5" alt="Spotify Recently Played" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GekkeTovie&theme=dark&hide_border=false" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
-<p align="center">
+<p align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
 
