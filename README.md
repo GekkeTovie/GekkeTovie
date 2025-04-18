@@ -11,7 +11,7 @@
 </p>
 
 ---
-# 💫 About Me:
+
 ## 🧙‍♂️ About This Code Sorcerer<br><br><p align="left"><br>  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9Ebz570/giphy.gif" width="150" alt="Coding Magic"><br>  </p><br><br>🔮 Currently conjuring spells with **[Primary Language/Technology]**.<br><br><br>🧪 My cauldron often bubbles with **[Secondary Language/Tool]** & **[Another Skill]**.<br><br><br>📜 Exploring the ancient scrolls of **[Area of Interest 1]** and **[Area of Interest 2]**.<br><br><br>✨ Seeking wisdom in **[Field you're learning]**.<br><br><br><br><br>* **Current Enchantment:** Working on [Brief description of a cool project or goal].<br>* **Arcane Focus:** [Your specific niche or specialization].<br>* **Life's Potion:** Mixing code with [Your Hobby 1] & [Your Hobby 2].<br>
 
 
