@@ -1,46 +1,107 @@
 <h1 align="center">✨ Greetings, Traveler! Welcome to My Digital Sanctum ✨</h1>
 
 <p align="center">
-  <i>Where arcane logic meets creative sparks, and code flows like enchanted streams...</i>
-  <br />
-  Pull up a stool by the digital hearth! I'm GekkeTovie, a humble code alchemist conjuring solutions from the ether.
+  <i>Where arcane logic meets creative sparks, and code flows like enchanted streams...</i><br />
+  Pull up a stool by the digital hearth! I'm <b>GekkeTovie</b>, a humble code alchemist conjuring solutions from the ether.
 </p>
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GekkeTovie) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/GekkeTovie) 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GekkeTovie&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
-## 🧙‍♂️ About This Code Sorcerer<br><br><p align="left"><br> </p><br><br>🔮 Currently conjuring spells with **[Lua]**.<br><br><br>🧪 My cauldron often bubbles with **[Python]** & **[HTML/CSS/JS]**.<br>📜 Exploring the ancient scrolls of **[AI Automation]** and **[Game scripts/hacking tools]**.<br>✨ Seeking wisdom in **[React]**.<br><br><br>* **Current Enchantment:** Working on [The Lost City. A FiveM server which I built out of mostly open-source scripts and completely revamped. This server is still heavily W.i.P but it gives me a place to stress test my creations.].<br>* **Arcane Focus:** [Creative Systems Developer].<br>* **Life's Potion:** Mixing code with [Magic] & [Efficiency].<br>
+## 💰 You Can Help Me By Donating
 
+<p align="center">
+  <a href="https://paypal.me/GekkeTovie">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/GekkeTovie">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GekkeTovie&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## 🧙‍♂️ About This Code Sorcerer
+
+🔮 Currently conjuring spells with **Lua**  
+🧪 My cauldron often bubbles with **Python**, **HTML/CSS/JS**  
+📜 Exploring the ancient scrolls of **AI Automation** and **Game scripts/hacking tools**  
+✨ Seeking wisdom in **React**
+
+- **Current Enchantment:** Working on **The Lost City**, a FiveM server built mostly from open-source scripts and heavily revamped. A personal testing ground for creations.  
+- **Arcane Focus:** *Creative Systems Developer*  
+- **Life's Potion:** Mixing code with **Magic** & **Efficiency**
+
+---
 
 ## 🛠️ My Spellbook (Languages & Tools)
 
-
-  <a href="https://open.spotify.com/user/z7mxk1p4j0b10b9hzevfrjc1y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z7mxk1p4j0b10b9hzevfrjc1y&count=5" alt="Spotify recently played"  />
-  </a>
-
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GekkeTovie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/980087444143738890/1362756941998198854/raw.png?ex=68038dcd&is=68023c4d&hm=d458e6b34288e246375eee3b2d46b69617926b682b74526be59dbe3bcff8d2b0&" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GekkeTovie&icon=3&color=4)](https://visitcount.itsvg.in)
 
+## 🎧 What I'm Listening To
 
-  
+<p align="center">
+  <a href="https://open.spotify.com/user/z7mxk1p4j0b10b9hzevfrjc1y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z7mxk1p4j0b10b9hzevfrjc1y&count=5" alt="Spotify Recently Played" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GekkeTovie&theme=dark&hide_border=false" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GekkeTovie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=GekkeTovie&icon=3&color=4" alt="Profile views" />
+  <img align="left" src="https://profile-counter.glitch.me/GekkeTovie/count.svg?" alt="Visitor counter" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/GekkeTovie/count.svg?"  />
-
-###
