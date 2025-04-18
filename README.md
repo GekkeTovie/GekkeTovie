@@ -96,9 +96,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GekkeTovie&icon=3&color=4" alt="Profile views" />
-  <img align="left" src="https://profile-counter.glitch.me/GekkeTovie/count.svg?" alt="Visitor counter" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
