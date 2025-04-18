@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPuIDwzDTU6tjoQ/giphy.gif" width="200" />
-  </p>
-
 <h1 align="center">✨ Greetings, Traveler! Welcome to My Digital Sanctum ✨</h1>
 
 <p align="center">
@@ -12,7 +8,7 @@
 
 ---
 
-## 🧙‍♂️ About This Code Sorcerer<br><br><p align="left"><br>  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9Ebz570/giphy.gif" width="150" alt="Coding Magic"><br>  </p><br><br>🔮 Currently conjuring spells with **[Lua]**.<br><br><br>🧪 My cauldron often bubbles with **[Python]** & **[HTML/CSS/JS]**.<br><br><br>📜 Exploring the ancient scrolls of **[AI Automation]** and **[Game scripts/hacking tools]**.<br><br><br>✨ Seeking wisdom in **[React]**.<br><br><br><br><br>* **Current Enchantment:** Working on [The Lost City. A FiveM server which I built out of mostly open-source scripts and completely revamped. This server is still heavily W.i.P but it gives me a place to stress test my creations.].<br>* **Arcane Focus:** [Creative Systems Developer].<br>* **Life's Potion:** Mixing code with [Magic] & [Efficiency].<br>
+## 🧙‍♂️ About This Code Sorcerer<br><br><p align="left"><br> </p><br><br>🔮 Currently conjuring spells with **[Lua]**.<br><br><br>🧪 My cauldron often bubbles with **[Python]** & **[HTML/CSS/JS]**.<br>📜 Exploring the ancient scrolls of **[AI Automation]** and **[Game scripts/hacking tools]**.<br>✨ Seeking wisdom in **[React]**.<br><br><br>* **Current Enchantment:** Working on [The Lost City. A FiveM server which I built out of mostly open-source scripts and completely revamped. This server is still heavily W.i.P but it gives me a place to stress test my creations.].<br>* **Arcane Focus:** [Creative Systems Developer].<br>* **Life's Potion:** Mixing code with [Magic] & [Efficiency].<br>
 
 
 # 💻 Tech Stack:
