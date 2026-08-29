@@ -1,9 +1,14 @@
-<svg width="600" height="190" viewBox="0 0 600 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">YoutubeFixer</title><desc id="desc">A free browser userscript that fixes YouTube fullscreen UI changes.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="600" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#081522"/><stop offset="1" stop-color="#102018"/></linearGradient></defs>
-  <rect width="600" height="190" rx="18" fill="url(#bg)"/><rect x="0" width="7" height="190" rx="3.5" fill="#22C55E"/><circle cx="533" cy="55" r="55" fill="#22C55E" opacity="0.06"/>
-  <rect x="28" y="23" width="108" height="24" rx="12" fill="#122B21"/><circle cx="44" cy="35" r="4" fill="#22C55E"/><text x="55" y="39" fill="#9AF7B5" font-family="Consolas, monospace" font-size="11" font-weight="700">OPEN SOURCE</text>
-  <text x="28" y="83" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">YoutubeFixer</text><text x="28" y="111" fill="#C6D3E3" font-family="Segoe UI, Arial, sans-serif" font-size="15">Fixes fullscreen UI changes. YouTube moved the furniture again.</text>
-  <g font-family="Consolas, monospace" font-size="11" font-weight="700"><rect x="28" y="135" width="94" height="26" rx="13" fill="#112536"/><text x="43" y="152" fill="#FFD27D">JAVASCRIPT</text><rect x="130" y="135" width="111" height="26" rx="13" fill="#112536"/><text x="145" y="152" fill="#9AF7B5">TAMPERMONKEY</text><rect x="249" y="135" width="92" height="26" rx="13" fill="#112536"/><text x="266" y="152" fill="#8BE8FF">BROWSER UX</text></g>
-  <text x="440" y="153" fill="#9AF7B5" font-family="Consolas, monospace" font-size="12" font-weight="700">OPEN REPO  &#8599;</text><rect x="501" y="39" width="66" height="45" rx="11" stroke="#4ADE80" stroke-width="3"/><path d="M528 49L546 61.5L528 74V49Z" fill="#4ADE80"/><rect x="0.75" y="0.75" width="598.5" height="188.5" rx="17.25" stroke="#24445A" stroke-width="1.5"/>
+<svg width="600" height="180" viewBox="0 0 600 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">YoutubeFixer</title><desc id="desc">A public userscript that fixes YouTube fullscreen changes.</desc>
+  <rect width="600" height="180" rx="7" fill="#111813"/><rect x="0" width="5" height="180" rx="2.5" fill="#90B582"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="25" y="31" fill="#6F806F" font-size="11">./open-source/userscript</text>
+    <text x="25" y="68" fill="#E6ECE3" font-size="23" font-weight="700">YoutubeFixer</text>
+    <text x="25" y="95" fill="#AAB6A8" font-size="14">YouTube moved the furniture again; this puts it back</text>
+    <text x="25" y="132" fill="#78977B" font-size="12">[javascript]  [tampermonkey]  [browser-ux]</text>
+    <text x="25" y="158" fill="#9BCF80" font-size="12">open_repository()  &#8599;</text>
+    <rect x="506" y="22" width="62" height="62" rx="5" fill="#151F17" stroke="#354A39"/>
+    <text x="537" y="54" fill="#9BCF80" font-size="27" font-weight="700" text-anchor="middle" dominant-baseline="middle">&#9654;</text>
+  </g><rect x="0.75" y="0.75" width="598.5" height="178.5" rx="6.25" stroke="#2B3B2E" stroke-width="1.5"/>
 </svg>
 
