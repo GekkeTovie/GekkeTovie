@@ -1,36 +1,55 @@
 <svg width="1280" height="280" viewBox="0 0 1280 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">TovieIT coding workflow</title>
   <desc id="desc">A clean code-style workflow from inspecting a problem to maintaining a system.</desc>
+  <style>
+    .step { opacity: 0; animation: step-in .6s ease-out forwards, step-breathe 8s ease-in-out infinite; }
+    .step-1 { animation-delay: .12s, 1s; } .step-2 { animation-delay: .34s, 2s; }
+    .step-3 { animation-delay: .56s, 3s; } .step-4 { animation-delay: .78s, 4s; }
+    .flow { stroke-dasharray: 7 7; animation: dash 1.25s linear infinite; }
+    .arrow { animation: arrow-pulse 1.25s ease-in-out infinite; }
+    .a2 { animation-delay: .18s; } .a3 { animation-delay: .36s; }
+    .stack { opacity: 0; animation: stack-in .8s 1s ease-out forwards; }
+    .cursor { animation: blink 1s steps(1, end) infinite; }
+    @keyframes step-in { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes step-breathe { 0%, 100% { opacity: .94; } 50% { opacity: 1; } }
+    @keyframes dash { to { stroke-dashoffset: -28; } }
+    @keyframes arrow-pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    @keyframes stack-in { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: .08; } }
+    @media (prefers-reduced-motion: reduce) {
+      .step, .flow, .arrow, .stack, .cursor { animation: none !important; opacity: 1 !important; transform: none !important; }
+    }
+  </style>
   <rect width="1280" height="280" rx="8" fill="#0E140F"/>
   <g font-family="Consolas, 'Courier New', monospace">
     <text x="38" y="42" fill="#78977B" font-size="14">workflow.ts</text>
     <text x="1134" y="42" fill="#6F806F" font-size="13">[main]</text>
 
-    <g stroke="#354739" stroke-width="2"><path d="M296 137H330"/><path d="M614 137H648"/><path d="M932 137H966"/></g>
-    <g fill="#95BE87"><path d="M330 137L320 131V143L330 137Z"/><path d="M648 137L638 131V143L648 137Z"/><path d="M966 137L956 131V143L966 137Z"/></g>
+    <g class="flow" stroke="#54765A" stroke-width="2"><path d="M296 137H330"/><path d="M614 137H648"/><path d="M932 137H966"/></g>
+    <g fill="#95BE87"><path class="arrow" d="M330 137L320 131V143L330 137Z"/><path class="arrow a2" d="M648 137L638 131V143L648 137Z"/><path class="arrow a3" d="M966 137L956 131V143L966 137Z"/></g>
 
-    <g>
+    <g class="step step-1">
       <rect x="38" y="66" width="258" height="142" rx="6" fill="#111813" stroke="#304234"/>
       <text x="58" y="96" fill="#6F806F" font-size="13">01</text><text x="88" y="96" fill="#9BCF80" font-size="17" font-weight="700">inspect(problem)</text>
       <text x="58" y="133" fill="#CFD8CC" font-size="14">find the friction</text>
       <text x="58" y="159" fill="#788A7A" font-size="13">// not just the symptom</text>
       <text x="58" y="187" fill="#95BE87" font-size="13">return context;</text>
     </g>
-    <g>
+    <g class="step step-2">
       <rect x="330" y="66" width="284" height="142" rx="6" fill="#111813" stroke="#304234"/>
       <text x="350" y="96" fill="#6F806F" font-size="13">02</text><text x="380" y="96" fill="#9BCF80" font-size="17" font-weight="700">build(useful_bit)</text>
       <text x="350" y="133" fill="#CFD8CC" font-size="14">web, tools, integrations</text>
       <text x="350" y="159" fill="#788A7A" font-size="13">// small enough to ship</text>
       <text x="350" y="187" fill="#95BE87" font-size="13">return working;</text>
     </g>
-    <g>
+    <g class="step step-3">
       <rect x="648" y="66" width="284" height="142" rx="6" fill="#111813" stroke="#4A4330"/>
       <text x="668" y="96" fill="#877653" font-size="13">03</text><text x="698" y="96" fill="#BDA46D" font-size="17" font-weight="700">automate(repetition)</text>
       <text x="668" y="133" fill="#CFD8CC" font-size="14">AI workflows, repeatable ops</text>
       <text x="668" y="159" fill="#788A7A" font-size="13">// humans keep control</text>
       <text x="668" y="187" fill="#BDA46D" font-size="13">return time_saved;</text>
     </g>
-    <g>
+    <g class="step step-4">
       <rect x="966" y="66" width="276" height="142" rx="6" fill="#111813" stroke="#304234"/>
       <text x="986" y="96" fill="#6F806F" font-size="13">04</text><text x="1016" y="96" fill="#9BCF80" font-size="17" font-weight="700">maintain(reality)</text>
       <text x="986" y="133" fill="#CFD8CC" font-size="14">deploy, monitor, improve</text>
@@ -38,9 +57,11 @@
       <text x="986" y="187" fill="#95BE87" font-size="13">return stable;</text>
     </g>
 
-    <text x="38" y="245" fill="#6F806F" font-size="13">$ stack --active</text>
-    <text x="190" y="245" fill="#A7B5A5" font-size="13">typescript  python  node.js  postgres  linux  shell</text>
-    <rect x="734" y="233" width="8" height="14" fill="#9BCF80" opacity="0.85"/>
+    <g class="stack">
+      <text x="38" y="245" fill="#6F806F" font-size="13">$ stack --active</text>
+      <text x="190" y="245" fill="#A7B5A5" font-size="13">typescript  python  node.js  postgres  linux  shell</text>
+    </g>
+    <rect class="cursor" x="734" y="233" width="8" height="14" fill="#9BCF80" opacity="0.85"/>
     <text x="1011" y="245" fill="#6F806F" font-size="13">while (useful) maintain();</text>
   </g>
   <rect x="0.75" y="0.75" width="1278.5" height="278.5" rx="7.25" stroke="#263429" stroke-width="1.5"/>
