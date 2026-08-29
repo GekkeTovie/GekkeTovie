@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/profile-header-dark.svg" alt="GekkeTovie profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/profile-header-dark.svg?v=2" alt="GekkeTovie profile banner" width="100%" />
 </p>
 
 <p align="center">
