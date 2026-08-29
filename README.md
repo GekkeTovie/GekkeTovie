@@ -9,31 +9,38 @@
 </p>
 
 <p align="center">
-  I build and maintain production-minded digital systems: websites, custom tools, automation flows, self-hosted infrastructure, and the practical glue between them.
+  I build websites, automations, custom tools, and self-hosted systems.<br />
+  If a problem involves a browser, a terminal, or a suspiciously repetitive spreadsheet, it has my attention.
 </p>
 
-## What I do
+<p align="center"><em>"Can this be automated?" is usually the start of either a good idea or a very long evening.</em></p>
 
-- Build full-stack web experiences and internal tools that solve real operational problems.
-- Design AI-assisted workflows and automations that remove repetitive work instead of adding more dashboard noise.
-- Run projects through the full lifecycle: planning, implementation, deployment, monitoring, and iteration.
-- Work across code, infrastructure, devices, and support under <a href="https://tovie.it.com/"><strong>TovieIT</strong></a>.
+## What tends to happen here
+
+- I turn "we do this manually every day" into a button, workflow, or service.
+- I build full-stack web experiences and internal tools for actual operational problems.
+- I design AI-assisted workflows with guardrails, because "just give the model access to everything" is not a strategy.
+- I deploy, monitor, maintain, and occasionally unbreak the things I ship.
+- I work across code, infrastructure, devices, and support under <a href="https://tovie.it.com/"><strong>TovieIT</strong></a>.
+
+<sub>Translation: full-stack development, automation, infrastructure, support, and occasionally proving that turning it off and on again was a perfectly valid diagnostic step.</sub>
 
 ## TovieIT
 
 <table>
   <tr>
     <td width="58%" valign="top">
-      <strong>TovieIT</strong> is the place where my technical work comes together: web development, AI solutions, automation, custom applications, networks/media, and hands-on repair.
+      <strong>TovieIT</strong> is where "I can probably build that" gets turned into something a client can actually use: web development, AI solutions, automation, custom applications, networks/media, and hands-on repair.
       <br /><br />
       The goal is straightforward: ship systems that are useful in production and keep them running after launch.
       <br /><br />
       Current positioning:
       <ul>
-        <li>One technical partner instead of five separate vendors</li>
-        <li>Self-hosted and privacy-aware where it makes sense</li>
-        <li>Direct support from the person who built the system</li>
+        <li>One technical partner, less agency telephone game</li>
+        <li>Self-hosted and privacy-aware where it genuinely helps</li>
+        <li>Direct support from the person who built the thing</li>
       </ul>
+      And yes, hardware repair is part of the menu. Sometimes the bug really is the cable.
     </td>
     <td width="42%" valign="top">
       <strong>Links</strong><br />
@@ -50,15 +57,25 @@
 
 | Project | What it is | Stack / angle |
 | --- | --- | --- |
-| [TovieIT](https://tovie.it.com/) | Full-stack IT services brand and delivery vehicle | Web, automation, infrastructure, support |
-| [Oraculum](https://tovie.it.com/work) | Cross-channel AI assistant with operational guardrails | FastAPI, React, PostgreSQL, self-hosting |
-| [Studio Tarara automation](https://tovie.it.com/work) | Order intake and community automation for a live client setup | Node, Discord workflows, operational tooling |
-| [YoutubeFixer](https://github.com/GekkeTovie/YoutubeFixer) | Tampermonkey fix for YouTube's fullscreen UI changes | JavaScript, browser scripting |
-| [FiveM-Snippets-and-Scripts](https://github.com/GekkeTovie/FiveM-Snippets-and-Scripts) | Public fixes and customizations for FiveM scripts | Lua, debugging, gameplay systems |
-| [tovie-dotfiles](https://github.com/GekkeTovie/tovie-dotfiles) | Personal Omarchy setup and environment tweaks | Shell, Linux workflow |
-| [toviesnotes](https://toviesnotes.vercel.app) | Public notes/digital garden style knowledge base | Frontend, content systems |
+| [TovieIT](https://tovie.it.com/) | The professional home for useful systems and fewer technical headaches | Web, automation, infrastructure, support |
+| [Oraculum](https://tovie.it.com/work) | Cross-channel AI assistant with guardrails, because chaos is not an API | FastAPI, React, PostgreSQL, self-hosting |
+| [Studio Tarara automation](https://tovie.it.com/work) | Turning order intake and Discord workflows into something calmer than controlled chaos | Node, Discord workflows, operational tooling |
+| [YoutubeFixer](https://github.com/GekkeTovie/YoutubeFixer) | Fixes YouTube's fullscreen UI because YouTube moved the furniture again | JavaScript, browser scripting |
+| [FiveM-Snippets-and-Scripts](https://github.com/GekkeTovie/FiveM-Snippets-and-Scripts) | Fixes and customizations that keep server chaos in the fun category | Lua, debugging, gameplay systems |
+| [tovie-dotfiles](https://github.com/GekkeTovie/tovie-dotfiles) | Making Omarchy and Linux exactly as opinionated as I am | Shell, Linux workflow |
+| [toviesnotes](https://toviesnotes.vercel.app) | A public second brain, because the first one has too many tabs open | Frontend, content systems |
 
-## Stack
+## Operating manual
+
+- Automate the boring part. Keep humans in charge of the interesting part.
+- Self-host when it adds control, not just another server that needs emotional support.
+- Ship early, monitor properly, and fix whatever reality disagrees with.
+- Leave every codebase slightly less cursed than I found it.
+- Documentation counts as a feature. Future me is an impatient client.
+
+## Toolbox
+
+The tools change. The habit of opening one more terminal does not.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
@@ -77,6 +94,8 @@
 
 ## Activity
 
+<p align="center"><em>Proof that at least some of those open tabs eventually became commits.</em></p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GekkeTovie&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&icon_color=22C55E&ring_color=38BDF8" alt="GekkeTovie GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GekkeTovie&layout=compact&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8" alt="Top languages" height="170" />
@@ -86,15 +105,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GekkeTovie&bg_color=0b1220&color=e2e8f0&line=22c55e&point=38bdf8&area=true&hide_border=true&title_color=f8fafc&radius=14" alt="GitHub activity graph" width="100%" />
 </p>
 
-## Current Direction
+## Currently causing productive trouble
 
-- Growing TovieIT into a sharper full-stack services brand with better public case studies.
-- Building systems that combine AI, automation, and human-friendly operations.
-- Refining personal tooling, self-hosting workflows, and practical developer environments.
+- Growing TovieIT into a sharper full-stack services brand with better public case studies and fewer vague buzzwords.
+- Building AI and automation systems that help people instead of creating a second job called "managing the automation".
+- Refining self-hosting, personal tooling, and developer environments until they feel suspiciously convenient.
 
 ## Find me
+
+If you have a useful problem, an odd idea, or a workflow held together by copy-paste, we should probably talk.
 
 - GitHub: <a href="https://github.com/GekkeTovie">@GekkeTovie</a>
 - TovieIT: <a href="https://tovie.it.com/">tovie.it.com</a>
 - Notes: <a href="https://toviesnotes.vercel.app/">toviesnotes.vercel.app</a>
 - Portfolio archive: <a href="http://socialrejects.me/">socialrejects.me</a>
+
