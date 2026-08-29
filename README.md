@@ -20,9 +20,14 @@
 </p>
 
 <p align="center">
-  <a href="https://tovie.it.com/services"><img src="https://img.shields.io/badge/services-open-2E3C30?style=flat-square&labelColor=111A13&color=2E3C30" alt="TovieIT services" /></a>
-  <a href="https://tovie.it.com/about"><img src="https://img.shields.io/badge/approach-read-2E3C30?style=flat-square&labelColor=111A13&color=2E3C30" alt="TovieIT approach" /></a>
-  <a href="https://tovie.it.com/contact"><img src="https://img.shields.io/badge/contact-start-2E3C30?style=flat-square&labelColor=111A13&color=2E3C30" alt="Contact TovieIT" /></a>
+  Got a workflow held together by copy-paste, hope, or one spreadsheet nobody dares touch?<br />
+  <a href="https://tovie.it.com/"><strong>TovieIT can probably make it behave.</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://tovie.it.com/services"><img src="https://img.shields.io/badge/$_see-services-2E3C30?style=flat-square&labelColor=111A13&color=2E3C30" alt="See TovieIT services" /></a>
+  <a href="https://tovie.it.com/about"><img src="https://img.shields.io/badge/$_read-approach-2E3C30?style=flat-square&labelColor=111A13&color=2E3C30" alt="Read the TovieIT approach" /></a>
+  <a href="https://tovie.it.com/contact"><img src="https://img.shields.io/badge/$_bring-a_problem-2E3C30?style=flat-square&labelColor=111A13&color=2E3C30" alt="Bring TovieIT a problem" /></a>
 </p>
 
 <p align="center"><sub>Client work stays confidential. This profile only highlights public, open-source work.</sub></p>
