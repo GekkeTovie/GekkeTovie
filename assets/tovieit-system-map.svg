@@ -1,12 +1,37 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">TovieIT capability map</title><desc id="desc">A visual map connecting TovieIT to six technical capabilities.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#07111D"/><stop offset="1" stop-color="#0B1826"/></linearGradient><linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123827"/><stop offset="1" stop-color="#0B2630"/></linearGradient></defs>
-  <rect width="1280" height="320" rx="22" fill="url(#bg)"/><g opacity="0.1" stroke="#7DD3FC"><path d="M0 64H1280"/><path d="M0 128H1280"/><path d="M0 192H1280"/><path d="M0 256H1280"/><path d="M160 0V320"/><path d="M320 0V320"/><path d="M960 0V320"/><path d="M1120 0V320"/></g>
-  <text x="42" y="42" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">PUBLIC CAPABILITY MAP</text><text x="1038" y="42" fill="#70DB91" font-family="Consolas, monospace" font-size="13">TOVIEIT.COM  &#8599;</text>
-  <g stroke="#2A5360" stroke-width="2"><path d="M318 91C430 91 450 126 524 143"/><path d="M318 160H524"/><path d="M318 229C430 229 450 194 524 177"/><path d="M756 143C830 126 850 91 962 91"/><path d="M756 160H962"/><path d="M756 177C830 194 850 229 962 229"/></g>
-  <g><rect x="42" y="66" width="276" height="50" rx="12" fill="#0D1E2D" stroke="#26445B"/><circle cx="68" cy="91" r="9" fill="#22C55E"/><text x="88" y="97" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">WEB &amp; CUSTOM APPS</text><rect x="42" y="135" width="276" height="50" rx="12" fill="#0D1E2D" stroke="#26445B"/><circle cx="68" cy="160" r="9" fill="#38BDF8"/><text x="88" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">AI WORKFLOWS</text><rect x="42" y="204" width="276" height="50" rx="12" fill="#0D1E2D" stroke="#26445B"/><circle cx="68" cy="229" r="9" fill="#F59E0B"/><text x="88" y="235" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">AUTOMATION</text></g>
-  <g><rect x="524" y="91" width="232" height="138" rx="24" fill="url(#core)" stroke="#31D26B" stroke-width="2"/><circle cx="640" cy="128" r="19" fill="#22C55E" opacity="0.18"/><path d="M631 128L638 135L650 120" stroke="#71F29A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="572" y="171" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">TovieIT</text><text x="557" y="199" fill="#BCEACB" font-family="Consolas, monospace" font-size="13">BUILD / AUTOMATE / MAINTAIN</text></g>
-  <g><rect x="962" y="66" width="276" height="50" rx="12" fill="#0D1E2D" stroke="#26445B"/><circle cx="988" cy="91" r="9" fill="#A3E635"/><text x="1008" y="97" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">SELF-HOSTING</text><rect x="962" y="135" width="276" height="50" rx="12" fill="#0D1E2D" stroke="#26445B"/><circle cx="988" cy="160" r="9" fill="#67E8F9"/><text x="1008" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">NETWORKS &amp; MEDIA</text><rect x="962" y="204" width="276" height="50" rx="12" fill="#0D1E2D" stroke="#26445B"/><circle cx="988" cy="229" r="9" fill="#FDBA74"/><text x="1008" y="235" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">SUPPORT &amp; REPAIR</text></g>
-  <rect x="456" y="270" width="368" height="30" rx="15" fill="#0A2030" stroke="#24445A"/><text x="497" y="290" fill="#B8C7D8" font-family="Consolas, monospace" font-size="13">ONE TECHNICAL PARTNER / DIRECT SUPPORT</text><rect x="0.75" y="0.75" width="1278.5" height="318.5" rx="21.25" stroke="#20354A" stroke-width="1.5"/>
+<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TovieIT service tree</title>
+  <desc id="desc">A forest-themed terminal tree of TovieIT public capabilities.</desc>
+  <rect width="1280" height="300" rx="8" fill="#0E140F"/>
+  <rect x="24" y="22" width="1232" height="256" rx="6" fill="#111813" stroke="#2D3E30" stroke-width="2"/>
+  <rect x="24" y="22" width="1232" height="36" rx="6" fill="#161F18"/>
+  <rect x="24" y="52" width="1232" height="6" fill="#161F18"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <circle cx="47" cy="40" r="4" fill="#6F806F"/><circle cx="63" cy="40" r="4" fill="#8B7953"/><circle cx="79" cy="40" r="4" fill="#7FA66F"/>
+    <text x="98" y="45" fill="#7F9080" font-size="12">tovieit@server: ~/services</text>
+    <text x="52" y="91" fill="#9BCF80" font-size="15">$ tree ./services -L 2</text>
+
+    <text x="52" y="128" fill="#E5EBE2" font-size="17" font-weight="700">services</text>
+    <text x="52" y="158" fill="#A9B6A7" font-size="15">&#9500;&#9472;&#9472; build/</text>
+    <text x="52" y="184" fill="#768B78" font-size="14">&#9474;   &#9500;&#9472;&#9472; web_and_apps</text>
+    <text x="52" y="210" fill="#768B78" font-size="14">&#9474;   &#9492;&#9472;&#9472; custom_tools</text>
+
+    <text x="356" y="158" fill="#A9B6A7" font-size="15">&#9500;&#9472;&#9472; automate/</text>
+    <text x="356" y="184" fill="#768B78" font-size="14">&#9474;   &#9500;&#9472;&#9472; ai_workflows</text>
+    <text x="356" y="210" fill="#768B78" font-size="14">&#9474;   &#9492;&#9472;&#9472; repeatable_ops</text>
+
+    <text x="690" y="158" fill="#A9B6A7" font-size="15">&#9492;&#9472;&#9472; maintain/</text>
+    <text x="690" y="184" fill="#768B78" font-size="14">    &#9500;&#9472;&#9472; self_hosting</text>
+    <text x="690" y="210" fill="#768B78" font-size="14">    &#9492;&#9472;&#9472; support_and_repair</text>
+
+    <rect x="1008" y="94" width="204" height="128" rx="5" fill="#0D130E" stroke="#344938"/>
+    <text x="1032" y="126" fill="#78977B" font-size="13">pipeline.status</text>
+    <text x="1032" y="158" fill="#D6E1D3" font-size="14">build      <tspan fill="#9BCF80">[ok]</tspan></text>
+    <text x="1032" y="184" fill="#D6E1D3" font-size="14">automate   <tspan fill="#9BCF80">[ok]</tspan></text>
+    <text x="1032" y="210" fill="#D6E1D3" font-size="14">maintain   <tspan fill="#9BCF80">[ok]</tspan></text>
+
+    <text x="52" y="250" fill="#6F806F" font-size="13">6 directories  //  one technical partner  //  direct support</text>
+    <rect x="698" y="238" width="8" height="14" fill="#9BCF80" opacity="0.85"/>
+  </g>
+  <rect x="0.75" y="0.75" width="1278.5" height="298.5" rx="7.25" stroke="#263429" stroke-width="1.5"/>
 </svg>
 
