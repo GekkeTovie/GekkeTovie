@@ -1,41 +1,62 @@
 <svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">GekkeTovie terminal profile</title>
   <desc id="desc">A clean forest-themed coding banner for GekkeTovie and TovieIT.</desc>
+  <style>
+    .grid { animation: grid-breathe 7s ease-in-out infinite; }
+    .reveal { opacity: 0; animation: reveal .65s ease-out forwards; }
+    .d1 { animation-delay: .12s; } .d2 { animation-delay: .28s; }
+    .d3 { animation-delay: .44s; } .d4 { animation-delay: .60s; }
+    .d5 { animation-delay: .76s; } .d6 { animation-delay: .92s; }
+    .d7 { animation-delay: 1.08s; } .d8 { animation-delay: 1.24s; }
+    .terminal { opacity: 0; animation: terminal-in .7s .25s ease-out forwards; transform-origin: center; }
+    .cursor { animation: blink 1s steps(1, end) infinite; }
+    .ready { animation: ready-pulse 3.4s ease-in-out infinite; }
+    @keyframes reveal { from { opacity: 0; transform: translateY(7px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes terminal-in { from { opacity: 0; transform: translateX(16px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes blink { 50% { opacity: .08; } }
+    @keyframes ready-pulse { 0%, 100% { opacity: .72; } 50% { opacity: 1; } }
+    @keyframes grid-breathe { 0%, 100% { opacity: .55; } 50% { opacity: .9; } }
+    @media (prefers-reduced-motion: reduce) {
+      .grid, .reveal, .terminal, .cursor, .ready { animation: none !important; opacity: 1 !important; transform: none !important; }
+    }
+  </style>
   <rect width="1280" height="380" rx="10" fill="#0B100C"/>
-  <g stroke="#1A261C" stroke-width="1">
+  <g class="grid" stroke="#1A261C" stroke-width="1">
     <path d="M0 76H1280"/><path d="M0 152H1280"/><path d="M0 228H1280"/><path d="M0 304H1280"/>
     <path d="M160 0V380"/><path d="M320 0V380"/><path d="M480 0V380"/><path d="M640 0V380"/><path d="M800 0V380"/><path d="M960 0V380"/><path d="M1120 0V380"/>
   </g>
 
   <g font-family="Consolas, 'Courier New', monospace">
-    <text x="62" y="54" fill="#78977B" font-size="15">~/profiles/gekke-tovie</text>
-    <text x="62" y="123" fill="#E8EEE5" font-size="54" font-weight="700">GekkeTovie</text>
-    <text x="62" y="171" fill="#95BE87" font-size="18">$ whoami</text>
-    <text x="62" y="204" fill="#D4DED1" font-size="25" font-weight="700">builder behind TovieIT</text>
-    <text x="62" y="249" fill="#95BE87" font-size="18">$ focus --current</text>
-    <text x="62" y="280" fill="#AEBBAD" font-size="18">web / automation / self-hosting / support</text>
-    <rect x="62" y="316" width="126" height="30" rx="4" fill="#111A13" stroke="#304334"/>
-    <text x="78" y="336" fill="#9BCF80" font-size="13">[main] ready</text>
-    <text x="206" y="336" fill="#758578" font-size="13">professional output; too many terminal tabs</text>
+    <text class="reveal d1" x="62" y="54" fill="#78977B" font-size="15">~/profiles/gekke-tovie</text>
+    <text class="reveal d2" x="62" y="123" fill="#E8EEE5" font-size="54" font-weight="700">GekkeTovie</text>
+    <text class="reveal d3" x="62" y="171" fill="#95BE87" font-size="18">$ whoami</text>
+    <text class="reveal d4" x="62" y="204" fill="#D4DED1" font-size="25" font-weight="700">builder behind TovieIT</text>
+    <text class="reveal d5" x="62" y="249" fill="#95BE87" font-size="18">$ focus --current</text>
+    <text class="reveal d6" x="62" y="280" fill="#AEBBAD" font-size="18">web / automation / self-hosting / support</text>
+    <g class="reveal d7 ready">
+      <rect x="62" y="316" width="126" height="30" rx="4" fill="#111A13" stroke="#304334"/>
+      <text x="78" y="336" fill="#9BCF80" font-size="13">[main] ready</text>
+    </g>
+    <text class="reveal d8" x="206" y="336" fill="#758578" font-size="13">professional output; too many terminal tabs</text>
   </g>
 
-  <g font-family="Consolas, 'Courier New', monospace">
+  <g class="terminal" font-family="Consolas, 'Courier New', monospace">
     <rect x="778" y="34" width="438" height="312" rx="7" fill="#101713" stroke="#314235" stroke-width="2"/>
     <rect x="778" y="34" width="438" height="35" rx="7" fill="#151E17"/>
     <rect x="778" y="62" width="438" height="7" fill="#151E17"/>
     <circle cx="800" cy="51" r="4" fill="#6F806F"/><circle cx="816" cy="51" r="4" fill="#8B7953"/><circle cx="832" cy="51" r="4" fill="#7FA66F"/>
     <text x="868" y="56" fill="#7F9080" font-size="12">tovie@forest: ~/stack</text>
 
-    <text x="806" y="102" fill="#9BCF80" font-size="15">$ tree services/</text>
-    <text x="806" y="132" fill="#DCE5D9" font-size="15">services/</text>
-    <text x="806" y="160" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; web_and_apps/</text>
-    <text x="806" y="188" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; ai_workflows/</text>
-    <text x="806" y="216" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; automation/</text>
-    <text x="806" y="244" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; self_hosting/</text>
-    <text x="806" y="272" fill="#AAB8A8" font-size="15">&#9492;&#9472;&#9472; support_and_repair/</text>
+    <text class="reveal d2" x="806" y="102" fill="#9BCF80" font-size="15">$ tree services/</text>
+    <text class="reveal d3" x="806" y="132" fill="#DCE5D9" font-size="15">services/</text>
+    <text class="reveal d4" x="806" y="160" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; web_and_apps/</text>
+    <text class="reveal d5" x="806" y="188" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; ai_workflows/</text>
+    <text class="reveal d6" x="806" y="216" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; automation/</text>
+    <text class="reveal d7" x="806" y="244" fill="#AAB8A8" font-size="15">&#9500;&#9472;&#9472; self_hosting/</text>
+    <text class="reveal d8" x="806" y="272" fill="#AAB8A8" font-size="15">&#9492;&#9472;&#9472; support_and_repair/</text>
     <path d="M806 292H1188" stroke="#29382C"/>
     <text x="806" y="320" fill="#78977B" font-size="13">5 modules, 0 mystery hand-offs</text>
-    <rect x="1168" y="308" width="8" height="14" fill="#9BCF80" opacity="0.85"/>
+    <rect class="cursor" x="1168" y="308" width="8" height="14" fill="#9BCF80" opacity="0.85"/>
   </g>
 
   <rect x="0.75" y="0.75" width="1278.5" height="378.5" rx="9.25" stroke="#263429" stroke-width="1.5"/>
