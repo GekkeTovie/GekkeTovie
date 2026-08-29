@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/profile-header-v3.svg?v=4" alt="GekkeTovie and TovieIT profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/profile-header-v3.svg?v=5" alt="Animated GekkeTovie and TovieIT terminal banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <strong>I build useful systems, automate boring work, and keep both running after launch.</strong><br />
+  <a href="https://tovie.it.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=900&amp;color=9BCF80&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;height=45&amp;lines=%24+build%28useful_systems%29;%24+automate%28boring_work%29;%24+maintain%28what_we_ship%29" alt="Animated terminal summary: build useful systems, automate boring work, maintain what we ship" /></a><br />
   <sub>If it involves a browser, a terminal, or a suspicious amount of copy-paste, I am probably interested.</sub>
 </p>
 
 ## ./tovieit
 
 <p align="center">
-  <a href="https://tovie.it.com/"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/tovieit-system-map.svg?v=4" alt="TovieIT capability map: web, AI, automation, hosting, networks and support" width="100%" /></a>
+  <a href="https://tovie.it.com/"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/tovieit-system-map.svg?v=5" alt="Animated TovieIT capability map: web, AI, automation, hosting, networks and support" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -37,18 +37,18 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/atif-1402/ai-panel/pull/3"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-ai-panel.svg?v=4" alt="AI Panel for Omarchy open-source contribution" width="100%" /></a>
+      <a href="https://github.com/atif-1402/ai-panel/pull/3"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-ai-panel.svg?v=5" alt="Animated AI Panel for Omarchy open-source contribution card" width="100%" /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/GekkeTovie/YoutubeFixer"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-youtube-fixer.svg?v=4" alt="YoutubeFixer open-source userscript" width="100%" /></a>
+      <a href="https://github.com/GekkeTovie/YoutubeFixer"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-youtube-fixer.svg?v=5" alt="Animated YoutubeFixer open-source userscript card" width="100%" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/GekkeTovie/FiveM-Snippets-and-Scripts"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-fivem.svg?v=4" alt="FiveM snippets and scripts" width="100%" /></a>
+      <a href="https://github.com/GekkeTovie/FiveM-Snippets-and-Scripts"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-fivem.svg?v=5" alt="Animated FiveM snippets and scripts card" width="100%" /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/GekkeTovie/tovie-dotfiles"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-dotfiles.svg?v=4" alt="Tovie Omarchy dotfiles" width="100%" /></a>
+      <a href="https://github.com/GekkeTovie/tovie-dotfiles"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-dotfiles.svg?v=5" alt="Animated Tovie Omarchy dotfiles card" width="100%" /></a>
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@
 ## ./build-loop
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/build-loop.svg?v=4" alt="TovieIT workflow: find friction, build, automate, and maintain" width="100%" />
+  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/build-loop.svg?v=5" alt="Animated TovieIT workflow: find friction, build, automate, and maintain" width="100%" />
 </p>
 
 ## ./activity
@@ -72,6 +72,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GekkeTovie&amp;theme=github_dark&amp;hide_logo=true&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=344A37&amp;icon_color=8EBE7B&amp;chart_color=8EBE7B&amp;animation=sequence&amp;duration=2.2" alt="Animated GekkeTovie public GitHub statistics" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GekkeTovie&amp;theme=github_dark&amp;utcOffset=2&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=4A4330&amp;icon_color=BDA46D&amp;chart_color=BDA46D&amp;animation=load&amp;duration=2.2" alt="Animated GekkeTovie commit activity by time of day" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/output/contribution-snake-forest.svg" alt="Animated GekkeTovie contribution snake" width="100%" />
 </p>
 
 ## ./links
