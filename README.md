@@ -83,11 +83,10 @@
 
 ## 🎧 What I'm Listening To
 
-<p align="left">
-  <a href="https://open.spotify.com/user/z7mxk1p4j0b10b9hzevfrjc1y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z7mxk1p4j0b10b9hzevfrjc1y&count=5" alt="Spotify Recently Played" />
-  </a>
-</p>
+<a href="https://open.spotify.com/user/z7mxk1p4j0b10b9hzevfrjc1y">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=z7mxk1p4j0b10b9hzevfrjc1y&amp;count=7&amp;width=570&amp;unique=1&amp;album=1" alt="Spotify recently played" width="570" />
+</a>
+
 ## ✍️ Random Dev Quote
 
 <p align="right">
