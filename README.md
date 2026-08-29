@@ -116,7 +116,7 @@ The tools change. The habit of opening one more terminal does not.
 If you have a useful problem, an odd idea, or a workflow held together by copy-paste, we should probably talk.
 
 - GitHub: <a href="https://github.com/GekkeTovie">@GekkeTovie</a>
-- TovieIT: <a href="https://tovie.it.com/">tovie.it.com</a>
+- Portfolio & client work: <a href="https://tovie.it.com/"><strong>tovie.it.com</strong></a>
 - Notes: <a href="https://toviesnotes.vercel.app/">toviesnotes.vercel.app</a>
-- Portfolio archive: <a href="http://socialrejects.me/">socialrejects.me</a>
+- Collective: <a href="https://socialrejects.me/">SocialRejects</a> — a group I occasionally build things with, not my personal portfolio
 
