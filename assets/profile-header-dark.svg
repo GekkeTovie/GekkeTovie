@@ -41,26 +41,26 @@
   </g>
 
   <g>
-    <rect x="74" y="68" width="164" height="32" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="74" y="68" width="205" height="32" rx="16" fill="#0F172A" stroke="#1F2937"/>
     <circle cx="98" cy="84" r="5" fill="#22C55E"/>
-    <text x="114" y="89" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AVAILABLE FOR PROJECTS</text>
+    <text x="114" y="89" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AVAILABLE FOR USEFUL PROBLEMS</text>
 
     <text x="74" y="156" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">GekkeTovie</text>
-    <text x="74" y="204" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Systems builder, automation-minded developer,</text>
-    <text x="74" y="240" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">and the person behind TovieIT.</text>
+    <text x="74" y="204" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">I build systems, automate boring work,</text>
+    <text x="74" y="240" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">and occasionally argue with CSS for TovieIT.</text>
 
     <text x="74" y="292" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21">
-      Websites, AI workflows, custom tools, self-hosted infrastructure,
+      Websites, AI workflows, custom tools, self-hosted infrastructure.
     </text>
     <text x="74" y="322" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21">
-      and hands-on technical problem solving with a production-first mindset.
+      Professional output; questionably many terminal tabs.
     </text>
 
     <rect x="74" y="352" width="156" height="36" rx="18" fill="#0F172A" stroke="#23324A"/>
     <text x="103" y="375" fill="#A5F3FC" font-family="Consolas, monospace" font-size="16">TovieIT // NL</text>
 
-    <rect x="242" y="352" width="170" height="36" rx="18" fill="#0F172A" stroke="#23324A"/>
-    <text x="271" y="375" fill="#BBF7D0" font-family="Consolas, monospace" font-size="16">Build • Automate • Maintain</text>
+    <rect x="242" y="352" width="222" height="36" rx="18" fill="#0F172A" stroke="#23324A"/>
+    <text x="267" y="375" fill="#BBF7D0" font-family="Consolas, monospace" font-size="16">Build • Automate • Unbreak</text>
   </g>
 
   <g>
@@ -103,10 +103,11 @@
     <rect x="1082" y="322" width="72" height="18" rx="9" fill="#A78BFA"/>
     <text x="1082" y="314" fill="#64748B" font-family="Consolas, monospace" font-size="12">support</text>
 
-    <text x="814" y="150" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">TovieIT operating model</text>
+    <text x="814" y="150" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">TovieIT control room</text>
     <text x="814" y="174" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">One person, full-stack delivery, direct support,</text>
-    <text x="814" y="196" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">and systems that stay monitored after launch.</text>
+    <text x="814" y="196" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">and absolutely no mystery hand-off department.</text>
   </g>
 
   <rect x="0.5" y="0.5" width="1279" height="419" rx="27.5" stroke="#1E293B"/>
 </svg>
+
