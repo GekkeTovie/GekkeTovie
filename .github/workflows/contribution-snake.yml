@@ -23,14 +23,14 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Generate forest contribution animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/contribution-snake-forest.svg?palette=github-dark&color_snake=#9BCF80&color_dots=#0B100C,#1F2D22,#405C46,#6F9F79,#A7D492
 
       - name: Publish animation to output branch
-        uses: crazy-max/ghaction-github-pages@v5
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
           build_dir: dist
