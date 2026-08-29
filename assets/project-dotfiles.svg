@@ -1,9 +1,14 @@
-<svg width="600" height="190" viewBox="0 0 600 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Tovie dotfiles</title><desc id="desc">Public Omarchy and Linux environment configuration.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="600" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#081522"/><stop offset="1" stop-color="#101C22"/></linearGradient></defs>
-  <rect width="600" height="190" rx="18" fill="url(#bg)"/><rect x="0" width="7" height="190" rx="3.5" fill="#A3E635"/><circle cx="533" cy="55" r="55" fill="#A3E635" opacity="0.06"/>
-  <rect x="28" y="23" width="108" height="24" rx="12" fill="#1B2B18"/><circle cx="44" cy="35" r="4" fill="#A3E635"/><text x="55" y="39" fill="#D2F5A6" font-family="Consolas, monospace" font-size="11" font-weight="700">OPEN SOURCE</text>
-  <text x="28" y="83" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">tovie-dotfiles</text><text x="28" y="111" fill="#C6D3E3" font-family="Segoe UI, Arial, sans-serif" font-size="15">Making Omarchy exactly as opinionated as I am.</text>
-  <g font-family="Consolas, monospace" font-size="11" font-weight="700"><rect x="28" y="135" width="61" height="26" rx="13" fill="#112536"/><text x="44" y="152" fill="#F1F5F9">SHELL</text><rect x="97" y="135" width="84" height="26" rx="13" fill="#112536"/><text x="113" y="152" fill="#D2F5A6">OMARCHY</text><rect x="189" y="135" width="83" height="26" rx="13" fill="#112536"/><text x="205" y="152" fill="#8BE8FF">DOTFILES</text></g>
-  <text x="440" y="153" fill="#D2F5A6" font-family="Consolas, monospace" font-size="12" font-weight="700">OPEN REPO  &#8599;</text><rect x="499" y="38" width="70" height="49" rx="8" stroke="#BEF264" stroke-width="3"/><path d="M511 53L522 62L511 71M529 72H551" stroke="#BEF264" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="0.75" y="0.75" width="598.5" height="188.5" rx="17.25" stroke="#24445A" stroke-width="1.5"/>
+<svg width="600" height="180" viewBox="0 0 600 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tovie dotfiles</title><desc id="desc">Public Omarchy and Linux environment configuration.</desc>
+  <rect width="600" height="180" rx="7" fill="#111813"/><rect x="0" width="5" height="180" rx="2.5" fill="#668D6C"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="25" y="31" fill="#6F806F" font-size="11">~/.config/tovie</text>
+    <text x="25" y="68" fill="#E6ECE3" font-size="23" font-weight="700">tovie-dotfiles</text>
+    <text x="25" y="95" fill="#AAB6A8" font-size="14">making Omarchy exactly as opinionated as I am</text>
+    <text x="25" y="132" fill="#78977B" font-size="12">[shell]  [omarchy]  [dotfiles]</text>
+    <text x="25" y="158" fill="#9BCF80" font-size="12">open_repository()  &#8599;</text>
+    <rect x="506" y="22" width="62" height="62" rx="5" fill="#151F17" stroke="#354A39"/>
+    <text x="537" y="54" fill="#9BCF80" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="middle">&gt;_</text>
+  </g><rect x="0.75" y="0.75" width="598.5" height="178.5" rx="6.25" stroke="#2B3B2E" stroke-width="1.5"/>
 </svg>
 
