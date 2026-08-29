@@ -61,19 +61,13 @@
 ## ./activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GekkeTovie&amp;theme=github_dark&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=2A3A2E&amp;icon_color=7FA66F&amp;chart_color=7FA66F" alt="GekkeTovie public GitHub contribution graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GekkeTovie&amp;theme=github_dark&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=344A37&amp;icon_color=8EBE7B&amp;chart_color=8EBE7B&amp;animation=draw&amp;duration=2.8" alt="Animated GekkeTovie public GitHub contribution graph" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GekkeTovie&amp;theme=github_dark&amp;hide_logo=true&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=2A3A2E&amp;icon_color=7FA66F&amp;chart_color=7FA66F" alt="GekkeTovie public GitHub statistics" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GekkeTovie&amp;theme=github_dark&amp;utcOffset=2&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=2A3A2E&amp;icon_color=A28C60&amp;chart_color=A28C60" alt="GekkeTovie commit activity by time of day" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GekkeTovie&amp;theme=github_dark&amp;hide_logo=true&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=344A37&amp;icon_color=8EBE7B&amp;chart_color=8EBE7B&amp;animation=sequence&amp;duration=2.2" alt="Animated GekkeTovie public GitHub statistics" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GekkeTovie&amp;theme=github_dark&amp;utcOffset=2&amp;title_color=E6ECE3&amp;text_color=C6D0C4&amp;bg_color=111713&amp;border_color=4A4330&amp;icon_color=BDA46D&amp;chart_color=BDA46D&amp;animation=load&amp;duration=2.2" alt="Animated GekkeTovie commit activity by time of day" height="200" />
+</p>
 
 ## ./links
 
