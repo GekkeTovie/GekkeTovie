@@ -1,9 +1,14 @@
-<svg width="600" height="190" viewBox="0 0 600 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">FiveM snippets and scripts</title><desc id="desc">Free Lua fixes, snippets and gameplay customizations.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="600" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#081522"/><stop offset="1" stop-color="#25190B"/></linearGradient></defs>
-  <rect width="600" height="190" rx="18" fill="url(#bg)"/><rect x="0" width="7" height="190" rx="3.5" fill="#F59E0B"/><circle cx="533" cy="55" r="55" fill="#F59E0B" opacity="0.07"/>
-  <rect x="28" y="23" width="108" height="24" rx="12" fill="#30200B"/><circle cx="44" cy="35" r="4" fill="#F59E0B"/><text x="55" y="39" fill="#FFD27D" font-family="Consolas, monospace" font-size="11" font-weight="700">OPEN SOURCE</text>
-  <text x="28" y="83" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">FiveM snippets &amp; scripts</text><text x="28" y="111" fill="#C6D3E3" font-family="Segoe UI, Arial, sans-serif" font-size="15">Public fixes that keep server chaos in the fun category.</text>
-  <g font-family="Consolas, monospace" font-size="11" font-weight="700"><rect x="28" y="135" width="57" height="26" rx="13" fill="#112536"/><text x="45" y="152" fill="#B5C7FF">LUA</text><rect x="93" y="135" width="78" height="26" rx="13" fill="#112536"/><text x="110" y="152" fill="#FFD27D">SNIPPETS</text><rect x="179" y="135" width="71" height="26" rx="13" fill="#112536"/><text x="196" y="152" fill="#9AF7B5">FIXES</text></g>
-  <text x="440" y="153" fill="#FFD27D" font-family="Consolas, monospace" font-size="12" font-weight="700">OPEN REPO  &#8599;</text><path d="M512 44H555L565 56V79H502V56L512 44Z" stroke="#FDBA74" stroke-width="3"/><path d="M517 61H550M533 50V72" stroke="#FDBA74" stroke-width="3" stroke-linecap="round"/><rect x="0.75" y="0.75" width="598.5" height="188.5" rx="17.25" stroke="#24445A" stroke-width="1.5"/>
+<svg width="600" height="180" viewBox="0 0 600 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">FiveM snippets and scripts</title><desc id="desc">Public Lua snippets, fixes and customizations.</desc>
+  <rect width="600" height="180" rx="7" fill="#111813"/><rect x="0" width="5" height="180" rx="2.5" fill="#A28C60"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="25" y="31" fill="#756F5D" font-size="11">./open-source/fivem</text>
+    <text x="25" y="68" fill="#E6ECE3" font-size="22" font-weight="700">FiveM snippets &amp; scripts</text>
+    <text x="25" y="95" fill="#AAB6A8" font-size="14">public fixes that keep server chaos in the fun category</text>
+    <text x="25" y="132" fill="#827B67" font-size="12">[lua]  [snippets]  [fixes]</text>
+    <text x="25" y="158" fill="#BDA46D" font-size="12">open_repository()  &#8599;</text>
+    <rect x="506" y="22" width="62" height="62" rx="5" fill="#1D1B15" stroke="#4A4330"/>
+    <text x="537" y="54" fill="#BDA46D" font-size="23" font-weight="700" text-anchor="middle" dominant-baseline="middle">{}</text>
+  </g><rect x="0.75" y="0.75" width="598.5" height="178.5" rx="6.25" stroke="#3A3629" stroke-width="1.5"/>
 </svg>
 
