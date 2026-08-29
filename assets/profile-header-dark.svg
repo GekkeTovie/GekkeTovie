@@ -1,0 +1,112 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GekkeTovie profile header</title>
+  <desc id="desc">Dark technical banner for GekkeTovie and TovieIT with subtle graph and dashboard visuals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060816"/>
+      <stop offset="0.55" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="132" y1="102" x2="568" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="820" y1="280" x2="1180" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1120" cy="72" r="220" fill="#22C55E" opacity="0.06"/>
+  <circle cx="166" cy="366" r="170" fill="#38BDF8" opacity="0.05"/>
+  <circle cx="988" cy="322" r="150" fill="#A78BFA" opacity="0.06"/>
+
+  <g opacity="0.12" stroke="#94A3B8">
+    <path d="M0 84H1280"/>
+    <path d="M0 168H1280"/>
+    <path d="M0 252H1280"/>
+    <path d="M0 336H1280"/>
+    <path d="M160 0V420"/>
+    <path d="M320 0V420"/>
+    <path d="M480 0V420"/>
+    <path d="M640 0V420"/>
+    <path d="M800 0V420"/>
+    <path d="M960 0V420"/>
+    <path d="M1120 0V420"/>
+  </g>
+
+  <g>
+    <rect x="74" y="68" width="164" height="32" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <circle cx="98" cy="84" r="5" fill="#22C55E"/>
+    <text x="114" y="89" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AVAILABLE FOR PROJECTS</text>
+
+    <text x="74" y="156" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">GekkeTovie</text>
+    <text x="74" y="204" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Systems builder, automation-minded developer,</text>
+    <text x="74" y="240" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">and the person behind TovieIT.</text>
+
+    <text x="74" y="292" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+      Websites, AI workflows, custom tools, self-hosted infrastructure,
+    </text>
+    <text x="74" y="322" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+      and hands-on technical problem solving with a production-first mindset.
+    </text>
+
+    <rect x="74" y="352" width="156" height="36" rx="18" fill="#0F172A" stroke="#23324A"/>
+    <text x="103" y="375" fill="#A5F3FC" font-family="Consolas, monospace" font-size="16">TovieIT // NL</text>
+
+    <rect x="242" y="352" width="170" height="36" rx="18" fill="#0F172A" stroke="#23324A"/>
+    <text x="271" y="375" fill="#BBF7D0" font-family="Consolas, monospace" font-size="16">Build • Automate • Maintain</text>
+  </g>
+
+  <g>
+    <rect x="772" y="56" width="436" height="308" rx="24" fill="url(#panel)" stroke="#1F2937"/>
+    <rect x="804" y="90" width="110" height="26" rx="13" fill="#0B1220" stroke="#23324A"/>
+    <text x="831" y="108" fill="#7DD3FC" font-family="Consolas, monospace" font-size="13">live systems</text>
+
+    <rect x="948" y="90" width="98" height="26" rx="13" fill="#0B1220" stroke="#23324A"/>
+    <text x="976" y="108" fill="#86EFAC" font-family="Consolas, monospace" font-size="13">automation</text>
+
+    <rect x="1072" y="90" width="96" height="26" rx="13" fill="#0B1220" stroke="#23324A"/>
+    <text x="1101" y="108" fill="#C4B5FD" font-family="Consolas, monospace" font-size="13">web + infra</text>
+
+    <g opacity="0.32" stroke="#334155">
+      <path d="M814 302H1178"/>
+      <path d="M814 262H1178"/>
+      <path d="M814 222H1178"/>
+      <path d="M814 182H1178"/>
+      <path d="M814 142H1178"/>
+    </g>
+
+    <path d="M834 288L888 252L928 258L976 212L1034 226L1094 162L1148 176" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="834" cy="288" r="6" fill="#22C55E"/>
+    <circle cx="888" cy="252" r="6" fill="#4ADE80"/>
+    <circle cx="928" cy="258" r="6" fill="#34D399"/>
+    <circle cx="976" cy="212" r="6" fill="#2DD4BF"/>
+    <circle cx="1034" cy="226" r="6" fill="#22D3EE"/>
+    <circle cx="1094" cy="162" r="6" fill="#38BDF8"/>
+    <circle cx="1148" cy="176" r="6" fill="#60A5FA"/>
+
+    <rect x="814" y="322" width="112" height="18" rx="9" fill="#152234"/>
+    <rect x="814" y="322" width="76" height="18" rx="9" fill="#22C55E"/>
+    <text x="814" y="314" fill="#64748B" font-family="Consolas, monospace" font-size="12">deployments</text>
+
+    <rect x="948" y="322" width="112" height="18" rx="9" fill="#152234"/>
+    <rect x="948" y="322" width="90" height="18" rx="9" fill="#38BDF8"/>
+    <text x="948" y="314" fill="#64748B" font-family="Consolas, monospace" font-size="12">automation</text>
+
+    <rect x="1082" y="322" width="96" height="18" rx="9" fill="#152234"/>
+    <rect x="1082" y="322" width="72" height="18" rx="9" fill="#A78BFA"/>
+    <text x="1082" y="314" fill="#64748B" font-family="Consolas, monospace" font-size="12">support</text>
+
+    <text x="814" y="150" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">TovieIT operating model</text>
+    <text x="814" y="174" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">One person, full-stack delivery, direct support,</text>
+    <text x="814" y="196" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">and systems that stay monitored after launch.</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="27.5" stroke="#1E293B"/>
+</svg>
