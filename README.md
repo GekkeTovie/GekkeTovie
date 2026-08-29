@@ -1,122 +1,87 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/profile-header-dark.svg?v=2" alt="GekkeTovie profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/profile-header-v3.svg?v=3" alt="GekkeTovie and TovieIT profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/GekkeTovie?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Building-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Open Source Building" /></a>
-  <a href="https://tovie.it.com/"><img src="https://img.shields.io/badge/TovieIT-Live-0F172A?style=for-the-badge&logo=vercel&logoColor=7DD3FC&labelColor=111827" alt="TovieIT Live" /></a>
-  <a href="https://tovie.it.com/services"><img src="https://img.shields.io/badge/Focus-Web%20%2B%20AI%20%2B%20Automation-0F172A?style=for-the-badge&logo=dependabot&logoColor=86EFAC&labelColor=111827" alt="Web AI Automation" /></a>
+  <a href="https://tovie.it.com/"><img src="https://img.shields.io/badge/TovieIT-Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1220" alt="TovieIT portfolio" /></a>
+  <a href="https://github.com/GekkeTovie?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-Free_to_use-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="Open-source repositories" /></a>
+  <a href="https://tovie.it.com/contact"><img src="https://img.shields.io/badge/Useful_problem-Let's_talk-F59E0B?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0B1220" alt="Contact TovieIT" /></a>
 </p>
 
 <p align="center">
-  I build websites, automations, custom tools, and self-hosted systems.<br />
-  If a problem involves a browser, a terminal, or a suspiciously repetitive spreadsheet, it has my attention.
+  <strong>I build useful systems, automate boring work, and keep both running after launch.</strong><br />
+  <sub>If it involves a browser, a terminal, or a suspicious amount of copy-paste, I am probably interested.</sub>
 </p>
 
-<p align="center"><em>"Can this be automated?" is usually the start of either a good idea or a very long evening.</em></p>
+## TovieIT // capability map
 
-## What tends to happen here
+<p align="center">
+  <a href="https://tovie.it.com/"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/tovieit-system-map.svg?v=3" alt="TovieIT capability map: web, AI, automation, hosting, networks and support" width="100%" /></a>
+</p>
 
-- I turn "we do this manually every day" into a button, workflow, or service.
-- I build full-stack web experiences and internal tools for actual operational problems.
-- I design AI-assisted workflows with guardrails, because "just give the model access to everything" is not a strategy.
-- I deploy, monitor, maintain, and occasionally unbreak the things I ship.
-- I work across code, infrastructure, devices, and support under <a href="https://tovie.it.com/"><strong>TovieIT</strong></a>.
+<p align="center">
+  <a href="https://tovie.it.com/services"><img src="https://img.shields.io/badge/EXPLORE-SERVICES-111827?style=flat-square&labelColor=22C55E&color=0B1220" alt="TovieIT services" /></a>
+  <a href="https://tovie.it.com/about"><img src="https://img.shields.io/badge/READ-THE_APPROACH-111827?style=flat-square&labelColor=38BDF8&color=0B1220" alt="TovieIT approach" /></a>
+  <a href="https://tovie.it.com/contact"><img src="https://img.shields.io/badge/START-A_CONVERSATION-111827?style=flat-square&labelColor=F59E0B&color=0B1220" alt="Contact TovieIT" /></a>
+</p>
 
-<sub>Translation: full-stack development, automation, infrastructure, support, and occasionally proving that turning it off and on again was a perfectly valid diagnostic step.</sub>
+<p align="center"><sub>Client work stays confidential. This profile only highlights public, open-source work.</sub></p>
 
-## TovieIT
+## Open source // free to use
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <strong>TovieIT</strong> is where "I can probably build that" gets turned into something a client can actually use: web development, AI solutions, automation, custom applications, networks/media, and hands-on repair.
-      <br /><br />
-      The goal is straightforward: ship systems that are useful in production and keep them running after launch.
-      <br /><br />
-      Current positioning:
-      <ul>
-        <li>One technical partner, less agency telephone game</li>
-        <li>Self-hosted and privacy-aware where it genuinely helps</li>
-        <li>Direct support from the person who built the thing</li>
-      </ul>
-      And yes, hardware repair is part of the menu. Sometimes the bug really is the cable.
+    <td width="50%">
+      <a href="https://github.com/atif-1402/ai-panel/pull/3"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-ai-panel.svg?v=3" alt="AI Panel for Omarchy open-source contribution" width="100%" /></a>
     </td>
-    <td width="42%" valign="top">
-      <strong>Links</strong><br />
-      <a href="https://tovie.it.com/">Main site</a><br />
-      <a href="https://tovie.it.com/services">Services</a><br />
-      <a href="https://tovie.it.com/work">Selected work</a><br />
-      <a href="https://tovie.it.com/about">Approach</a><br />
-      <a href="https://tovie.it.com/contact">Contact</a>
+    <td width="50%">
+      <a href="https://github.com/GekkeTovie/YoutubeFixer"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-youtube-fixer.svg?v=3" alt="YoutubeFixer open-source userscript" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/GekkeTovie/FiveM-Snippets-and-Scripts"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-fivem.svg?v=3" alt="FiveM snippets and scripts" width="100%" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/GekkeTovie/tovie-dotfiles"><img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/project-dotfiles.svg?v=3" alt="Tovie Omarchy dotfiles" width="100%" /></a>
     </td>
   </tr>
 </table>
 
-## Selected Work
-
-| Project | What it is | Stack / angle |
-| --- | --- | --- |
-| [TovieIT](https://tovie.it.com/) | The professional home for useful systems and fewer technical headaches | Web, automation, infrastructure, support |
-| [Oraculum](https://tovie.it.com/work) | Cross-channel AI assistant with guardrails, because chaos is not an API | FastAPI, React, PostgreSQL, self-hosting |
-| [Studio Tarara automation](https://tovie.it.com/work) | Turning order intake and Discord workflows into something calmer than controlled chaos | Node, Discord workflows, operational tooling |
-| [YoutubeFixer](https://github.com/GekkeTovie/YoutubeFixer) | Fixes YouTube's fullscreen UI because YouTube moved the furniture again | JavaScript, browser scripting |
-| [FiveM-Snippets-and-Scripts](https://github.com/GekkeTovie/FiveM-Snippets-and-Scripts) | Fixes and customizations that keep server chaos in the fun category | Lua, debugging, gameplay systems |
-| [tovie-dotfiles](https://github.com/GekkeTovie/tovie-dotfiles) | Making Omarchy and Linux exactly as opinionated as I am | Shell, Linux workflow |
-| [toviesnotes](https://toviesnotes.vercel.app) | A public second brain, because the first one has too many tabs open | Frontend, content systems |
-
-## Operating manual
-
-- Automate the boring part. Keep humans in charge of the interesting part.
-- Self-host when it adds control, not just another server that needs emotional support.
-- Ship early, monitor properly, and fix whatever reality disagrees with.
-- Leave every codebase slightly less cursed than I found it.
-- Documentation counts as a feature. Future me is an impatient client.
-
-## Toolbox
-
-The tools change. The habit of opening one more terminal does not.
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=86EFAC" alt="Python" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=4ADE80" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Lua-111827?style=flat-square&logo=lua&logoColor=A5B4FC" alt="Lua" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=C4B5FD" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=67E8F9" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=93C5FD" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=E5E7EB" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=E5E7EB" alt="GitHub" />
+<p align="center">
+  <a href="https://github.com/GekkeTovie?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PUBLIC_REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="View all public repositories" /></a>
 </p>
 
-## Activity
-
-<p align="center"><em>Proof that at least some of those open tabs eventually became commits.</em></p>
+## Build loop
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GekkeTovie&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&icon_color=22C55E&ring_color=38BDF8" alt="GekkeTovie GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GekkeTovie&layout=compact&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8" alt="Top languages" height="170" />
+  <img src="https://raw.githubusercontent.com/GekkeTovie/GekkeTovie/main/assets/build-loop.svg?v=3" alt="TovieIT workflow: find friction, build, automate, and maintain" width="100%" />
 </p>
+
+## Public GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GekkeTovie&bg_color=0b1220&color=e2e8f0&line=22c55e&point=38bdf8&area=true&hide_border=true&title_color=f8fafc&radius=14" alt="GitHub activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GekkeTovie&amp;theme=github_dark&amp;title_color=F8FAFC&amp;text_color=CBD5E1&amp;bg_color=0B1220&amp;border_color=1F2A3D&amp;icon_color=22C55E&amp;chart_color=22C55E&amp;animation=load&amp;duration=1.2" alt="GekkeTovie public GitHub contribution graph" width="100%" />
 </p>
 
-## Currently causing productive trouble
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GekkeTovie&amp;theme=github_dark&amp;exclude_repos=claude-code,enchancement,ToviePortfolio,GekkeTovie&amp;title_color=F8FAFC&amp;text_color=CBD5E1&amp;bg_color=0B1220&amp;border_color=1F2A3D&amp;icon_color=38BDF8&amp;chart_color=38BDF8&amp;animation=load&amp;duration=1.2" alt="Languages used across GekkeTovie public repositories" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GekkeTovie&amp;theme=github_dark&amp;utcOffset=2&amp;title_color=F8FAFC&amp;text_color=CBD5E1&amp;bg_color=0B1220&amp;border_color=1F2A3D&amp;icon_color=F59E0B&amp;chart_color=F59E0B&amp;animation=load&amp;duration=1.2" alt="GekkeTovie commit activity by time of day" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- Growing TovieIT into a sharper full-stack services brand with better public case studies and fewer vague buzzwords.
-- Building AI and automation systems that help people instead of creating a second job called "managing the automation".
-- Refining self-hosting, personal tooling, and developer environments until they feel suspiciously convenient.
+## Elsewhere
 
-## Find me
+<p align="center">
+  <a href="https://tovie.it.com/"><img src="https://img.shields.io/badge/PORTFOLIO-TOVIEIT-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1220" alt="TovieIT portfolio" /></a>
+  <a href="https://toviesnotes.vercel.app/"><img src="https://img.shields.io/badge/NOTES-DIGITAL_GARDEN-38BDF8?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0B1220" alt="Tovie's notes" /></a>
+  <a href="https://socialrejects.me/"><img src="https://img.shields.io/badge/COLLECTIVE-SOCIALREJECTS-F59E0B?style=for-the-badge&logoColor=white&labelColor=0B1220" alt="SocialRejects collective" /></a>
+</p>
 
-If you have a useful problem, an odd idea, or a workflow held together by copy-paste, we should probably talk.
-
-- GitHub: <a href="https://github.com/GekkeTovie">@GekkeTovie</a>
-- Portfolio & client work: <a href="https://tovie.it.com/"><strong>tovie.it.com</strong></a>
-- Notes: <a href="https://toviesnotes.vercel.app/">toviesnotes.vercel.app</a>
-- Collective: <a href="https://socialrejects.me/">SocialRejects</a> — a group I occasionally build things with, not my personal portfolio
+<p align="center"><sub>Professional output. Questionable number of terminal tabs.</sub></p>
 
